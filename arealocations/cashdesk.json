@@ -1,0 +1,24 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Kasse",
+        "en": "Cashdesk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [214.41, 159.59],
+                [220.69, 163.25],
+                [221.53, 161.78],
+                [215.25, 158.09],
+                [214.41, 159.59]
+            ]
+        ]
+    }
+}
